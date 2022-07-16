@@ -1,3 +1,3 @@
-<img src="https://github.com/LP-Teach/files/blob/5c1fed773d6ac9cb9e627a2afd4ad65bd25f0359/banner/LP-Teach-TY-Banner.png" align=center>
+<img src="https://github.com/LP-Teach/files/blob/3cbab4279f3521126e8533ed60ac9fa7f473900c/banner/banner.jpg" align=center>
 
-<h1>Welcome to LP Teach</h1>
+<h1 align=center>Welcome to LP Teach</h1>
