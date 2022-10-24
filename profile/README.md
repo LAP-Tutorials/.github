@@ -3,7 +3,7 @@
 <h1 align=center>Welcome to LP Teach, <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
 
 <div align="center">
-<a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro" ><img src="https://github.com/LP-Teach/files/blob/715e43eaad68a379b0e04b9af4b79c1f99cc7371/readme_thumb/intro.jpg" alt="Intro video"  width="500px" /></a> {:target="_blank"}
+<a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/715e43eaad68a379b0e04b9af4b79c1f99cc7371/readme_thumb/intro.jpg" alt="Intro video"  width="500px" /></a>
 </div>
 
 <div align="center">
