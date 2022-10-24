@@ -10,4 +10,4 @@
 
 <p align="center">A place where you can find all the best tech and tutorials on things related to mobile technology and so much more 😌.</p>
 
-<h1>Latest Videos (<a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg">Visit my channel</a>)</h1>
+<h1>Latest Videos ( <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg" target="_blank">Visit my channel</a> )</h1>
