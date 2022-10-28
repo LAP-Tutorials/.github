@@ -14,6 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          working-directory: profile
+          working-directory: ./profile
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcrvHbgE3u_eDfYm6iJKEvg"
