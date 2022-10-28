@@ -20,7 +20,6 @@
 <p align="center">A place where you can find all the best tech and tutorials on things related to mobile technology and so much more 😌.</p>
 
 <br/>
-<br/>
 
 <h2>📺 Latest Videos  <a href="https://www.youtube.com/watch?v=qOckacF3WJo"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
