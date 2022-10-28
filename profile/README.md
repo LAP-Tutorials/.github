@@ -23,6 +23,6 @@
 
 <h2>📺 Latest Videos ( <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg" target="_blank">Visit my channel</a> )</h2>
 
-<!-- YOUTUBE:START -->
-- [Trailer](https://www.youtube.com/watch?v=4sqDPseWlFQ)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ"><img width="140px" src="https://i.ytimg.com/vi/4sqDPseWlFQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ">Trailer</a><br/>Oct 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
