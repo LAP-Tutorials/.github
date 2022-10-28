@@ -21,7 +21,7 @@
 
 <br/>
 
-<h2>📺 Latest Videos   <a href="https://www.youtube.com/watch?v=qOckacF3WJo"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
+<h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ"><img width="140px" src="https://i.ytimg.com/vi/4sqDPseWlFQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4sqDPseWlFQ">Trailer</a><br/>24 Oct, 2022</td></tr></table>
