@@ -6,12 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-defaults:
-    run:
-      working-directory: ./app
-      
+
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
+    defaults:
+    run:
+      working-directory: ./profile
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
