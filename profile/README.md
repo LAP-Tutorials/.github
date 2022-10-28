@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<h2>📺 Latest Videos ( <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg" target="_blank">Visit my channel</a> )</h2>
+<h2>📺 Latest Videos  <a href="https://www.youtube.com/watch?v=qOckacF3WJo"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
 <!-- YOUTUBE:START -->
 - [Trailer](https://www.youtube.com/watch?v=4sqDPseWlFQ)
