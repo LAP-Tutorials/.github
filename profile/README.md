@@ -23,4 +23,5 @@
 
 <h2>📺 Latest Videos ( <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg" target="_blank">Visit my channel</a> )</h2>
 <!-- YOUTUBE:START -->
+- [Trailer](https://www.youtube.com/watch?v=4sqDPseWlFQ)
 <!-- YOUTUBE:END -->
