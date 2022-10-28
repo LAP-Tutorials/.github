@@ -5,11 +5,11 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+jobs:
 defaults:
     run:
       working-directory: ./app
-
-jobs:
+      
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
