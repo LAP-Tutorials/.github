@@ -3,7 +3,6 @@
 <h1 align=center>Welcome to the official github page for LP Teach <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
 
 <br />
-<br />
 
 <div align="center">
 <a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/6ef30078c1a5f30ded7b38f14dd433afe1fb5b70/thumbnails/intro.jpg" alt="Intro video"  width="500px" /></a>
@@ -15,6 +14,8 @@
 <a href="https://twitter.com/LlewellynAdont1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/llewellynpaint/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
+
+<br/>
 
 <p align="center">A place where you can find all the best tech and tutorials on things related to mobile technology and so much more 😌.</p>
 
