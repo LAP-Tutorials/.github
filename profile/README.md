@@ -19,6 +19,8 @@
 
 <p align="center">A place where you can find all the best tech and tutorials on things related to mobile technology and so much more 😌.</p>
 
+<p align="center">If you want the worded form of my videos, go here: <a href="https://github.com/LP-Teach/tutorials/blob/c4f27dd67b4d2b38464bfa9fad580704c3c2d500/README.md">Tutorials</a></p>
+
 <br/>
 
 <h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
