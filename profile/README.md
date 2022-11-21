@@ -1,4 +1,4 @@
-<img src="https://github.com/LP-Teach/files/blob/bb8ae97df95cc1bec2cd4520ca586d1e7f40e5e7/banner/banner.jpg" align=center>
+<img src="https://github.com/LP-Teach/files/blob/f6d933d762456b51d2792a63e11b22e16bf48b41/banner/banner.jpg" align=center>
 
 <h1 align=center>Welcome to the official github page for LP Teach <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
 
