@@ -25,7 +25,9 @@
 
 <h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg"><img width="140px" src="https://i.ytimg.com/vi/ZMXoUaVaXNg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU"><img width="140px" src="https://i.ytimg.com/vi/Fc45rWWo0MU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU">Legendary Dark - My VS code theme</a><br/>22 Nov, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg"><img width="140px" src="https://i.ytimg.com/vi/ZMXoUaVaXNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg">How to Set Up Pop OS Bootloader &lpar;systemd-boot&rpar; | Pop OS 22.04 LTS</a><br/>18 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CNU-uf_yT28"><img width="140px" src="https://i.ytimg.com/vi/CNU-uf_yT28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CNU-uf_yT28">How To Watch and Download Anime - The Complete Guide</a><br/>9 Nov, 2022</td></tr></table>
