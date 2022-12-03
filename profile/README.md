@@ -25,7 +25,9 @@
 
 <h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=inuPC6RTswQ"><img width="140px" src="https://i.ytimg.com/vi/inuPC6RTswQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HdHyRwgBOZQ"><img width="140px" src="https://i.ytimg.com/vi/HdHyRwgBOZQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HdHyRwgBOZQ">Useful Apps You Need To Try Part 2 #shorts</a><br/>2 Dec, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=inuPC6RTswQ"><img width="140px" src="https://i.ytimg.com/vi/inuPC6RTswQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=inuPC6RTswQ">Turning Anime Scenes Into AI Art Part 1 #shorts</a><br/>28 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1E5u0pH7z8Y"><img width="140px" src="https://i.ytimg.com/vi/1E5u0pH7z8Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1E5u0pH7z8Y">How to Install Bomi | The best Linux Media Player</a><br/>24 Nov, 2022</td></tr></table>
@@ -33,6 +35,4 @@
 <td><a href="https://www.youtube.com/watch?v=_k7Sp4dB0EY">Useful Apps You Need to Get Part 1</a><br/>22 Nov, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU"><img width="140px" src="https://i.ytimg.com/vi/Fc45rWWo0MU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Fc45rWWo0MU">Legendary Dark - My VS code theme</a><br/>22 Nov, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg"><img width="140px" src="https://i.ytimg.com/vi/ZMXoUaVaXNg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZMXoUaVaXNg">How to Set Up Pop OS Bootloader &lpar;systemd-boot&rpar; | Pop OS 22.04 LTS</a><br/>18 Nov, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
