@@ -1,11 +1,11 @@
-<img src="https://github.com/LP-Teach/files/blob/bb8ae97df95cc1bec2cd4520ca586d1e7f40e5e7/banner/banner.jpg" align=center>
+<img src="https://raw.githubusercontent.com/LP-Teach/files/main/banner/banner.jpg" align=center>
 
 <h1 align=center>Welcome to the official github page for LP Teach <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
 
 <br />
 
 <div align="center">
-<a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/6ef30078c1a5f30ded7b38f14dd433afe1fb5b70/thumbnails/intro.jpg" alt="Intro video"  width="500px" /></a>
+<a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/main/thumbnails/intro.jpg?raw=true" alt="Intro video"  width="500px" /></a>
 </div>
 
 <div align="center">
