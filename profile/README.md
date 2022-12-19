@@ -1,12 +1,16 @@
 <img src="https://raw.githubusercontent.com/LP-Teach/files/main/banner/banner.jpg" align=center>
 
-<h1 align=center>Welcome to the official github page for LP Teach <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
+<br />
+
+<h1 align=center>Welcome to the official github page for LAP <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
 
 <br />
 
 <div align="center">
 <a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/main/thumbnails/intro.jpg?raw=true" alt="Intro video"  width="500px" /></a>
 </div>
+
+<br />
 
 <div align="center">
 <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/youtube/channel/subscribers/UCcrvHbgE3u_eDfYm6iJKEvg?label=channel%20subscribers&logo=youtube&logoColor=red&style=for-the-badge"></a>
