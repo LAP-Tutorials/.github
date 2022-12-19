@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/LP-Teach/files/main/banner/banner.jpg" align=center>
-
-<h1 align=center>Welcome to the official github page for LAP <img  height="40px" src="https://camo.githubusercontent.com/c5763e7c322079fa5e6256670a7ba475d7d41b94afc2d033ef72a9b98a62ef80/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62363137633336663964623237366433313436653937346238666636346634632f74656e6f722e676966" /></h1>
+<img src="https://raw.githubusercontent.com/LAP-Tutorials/files/main/banner/welcome-banner.gif">
 
 <br />
 
