@@ -26,7 +26,7 @@
 <h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk"><img width="140px" src="https://i.ytimg.com/vi/2LGBMbnf3Vk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Your Phone</a><br/>17 May, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2LGBMbnf3Vk">How to Download Anime on Phone</a><br/>17 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk"><img width="140px" src="https://i.ytimg.com/vi/lYJUEe0_yzk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lYJUEe0_yzk">Top 3 Linux Video Players</a><br/>10 May, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9QwHG2Tvwfs"><img width="140px" src="https://i.ytimg.com/vi/9QwHG2Tvwfs/mqdefault.jpg"></a></td>
