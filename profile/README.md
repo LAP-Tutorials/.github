@@ -27,7 +27,12 @@
 
 <br/>
 
-<h2>📺 Latest Videos   <a href="https://www.youtube.com/channel/UCcrvHbgE3u_eDfYm6iJKEvg"><img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" width="90px"/></a></h2>
+<h2 align="center"><img src="https://github.com/Llewellyn500/Llewellyn500/blob/master/images/others/video.gif?raw=true" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/> Latest YouTube Videos <img src="https://github.com/Llewellyn500/Llewellyn500/blob/master/images/others/video.gif?raw=true" width="3%" alt="Latest Video GIF" title="Latest Video Gif" loading="lazy" decoding="async" longdesc="A custom made gif of Latest Video"/></h2>
 
 <!-- BEGIN LAP-TUTORIALS-YOUTUBE-CARDS -->
 <!-- END LAP-TUTORIALS-YOUTUBE-CARDS -->
+
+<div align="center">
+<a href="https://www.youtube.com/@lap-tutorials">
+<img src="https://github.com/Llewellyn500/Llewellyn500/blob/master/images/badge/subscribe.png?raw=true" width="40%" alt="Subscribe button" title="Subscribe Button" loading="eager" decoding="async" longdesc="A custom made subscribe button"/></a>
+</div>
