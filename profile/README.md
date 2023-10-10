@@ -3,7 +3,11 @@
 <br />
 
 <div align="center">
-<a href="https://youtu.be/4sqDPseWlFQ" title="LP Teach Intro"><img src="https://github.com/LP-Teach/files/blob/main/thumbnails/intro.jpg?raw=true" alt="Intro video"  width="500px" /></a>
+
+<a href="https://youtu.be/4sqDPseWlFQ?si=oN4jSXsoVw330HW5" target="_blank">
+ <img src="http://img.youtube.com/vi/4sqDPseWlFQ/maxresdefault.jpg" alt="Watch the video" width="240" height="180" />
+</a>
+
 </div>
 
 <br />
