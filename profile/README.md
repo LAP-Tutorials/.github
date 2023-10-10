@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://youtu.be/4sqDPseWlFQ?si=oN4jSXsoVw330HW5" target="_blank">
- <img src="http://img.youtube.com/vi/4sqDPseWlFQ/maxresdefault.jpg" alt="Watch the video"  />
+ <img src="http://img.youtube.com/vi/4sqDPseWlFQ/maxresdefault.jpg" alt="Watch the video" width="70%" />
 </a>
 
 </div>
