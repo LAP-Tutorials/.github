@@ -21,5 +21,6 @@ jobs:
           background_color: "#101010"
           title_color: "#FBFBFD"
           stats_color: "#2196f3"
+          readme_path: "./profile/README.md"
           theme_context_light: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
           theme_context_dark: '{ "background_color": "#101010", "title_color": "#FBFBFD", "stats_color": "#2196f3" }'
