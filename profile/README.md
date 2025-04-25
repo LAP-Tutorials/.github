@@ -14,7 +14,7 @@
 
 <p align="center">A place where you can find all the best tech and tutorials on things related to mobile technology and so much more 😌.</p>
 
-<p align="center">If you want the worded form of my videos, go here: <a href="https://lap-docs.vercel.app/">LAP Docs</a></p>
+<p align="center">If you want the worded form of my videos, go here: <a href="https://lap-docs.netlify.app/">LAP Docs</a></p>
 
 <br/>
 
