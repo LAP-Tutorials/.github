@@ -2,7 +2,7 @@ name: LAP-Tutotials GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@1.7.0
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCcrvHbgE3u_eDfYm6iJKEvg
           lang: en
